@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Victor Neri 👋
+## E aí!! Eu sou o João Neri 👋
 
 - 🔭 Hoje trabalho com HTML/CSS, C
 - 🌱 Hoje estou estutando Python e Java
