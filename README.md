@@ -1,5 +1,9 @@
 ## Eaiii Nerii aqui, Estudante de Engenharia De Software e Desenvolvedor Junior 
 
+- 🔭 Hoje trabalho com Desenvolvimento Web e Design Gráfico  
+- 🌱 Estudate de Engenharia de Software, 5º Semestre, UCB
+- ⚡ Estudando React e Java
+
 <div align="center">
   <a href="https://github.com/JoaoSNeri">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=JoaoSNeri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
