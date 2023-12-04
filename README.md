@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com Desenvolvimento Web e Design Gráfico  
 - 🌱 Estudate de Engenharia de Software, 5º Semestre, UCB
 - ⚡ Estudando React e Java
+- 📫 Contate-me no e-mail: joaoneri.dev@outlook.com
 
 <div align="center">
   <a href="https://github.com/JoaoSNeri">
