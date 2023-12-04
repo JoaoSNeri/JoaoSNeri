@@ -1,4 +1,4 @@
-## Eaiii Nerii aqui, Estudante de Engenharia De Software e Desenvolvedor Junior Front End
+## Eaiii Nerii aqui, Estudante de Engenharia De Software e Desenvolvedor Junior 
 
 <div align="center">
   <a href="https://github.com/JoaoSNeri">
