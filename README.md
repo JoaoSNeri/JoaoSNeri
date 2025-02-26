@@ -1,7 +1,7 @@
 ## Eaiii Nerii aqui, Estudante de Engenharia De Software e Desenvolvedor Junior 
 
 - 🔭 Hoje trabalho com Desenvolvimento Web e Social Media   
-- 🌱 Estudate de Engenharia de Software, 6º Semestre, UCB
+- 🌱 Estudate de Engenharia de Software, 7º Semestre, UCB
 - ⚡ Estudando React e Java
 - 📫 Contate-me no e-mail: joaoneri.dev@outlook.com
 
