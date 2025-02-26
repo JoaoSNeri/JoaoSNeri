@@ -5,6 +5,7 @@
 - 🌱 Estudate de Engenharia de Software, 7º Semestre, UCB
 - ⚡ Estudando React e Java
 - 📫 Contate-me no e-mail: joaoneri.dev@outlook.com
+- 📒 Saiba mais em: https://portifolio-nine-liard-83.vercel.app/
 
 <div align="center">
   <a href="https://github.com/JoaoSNeri">
